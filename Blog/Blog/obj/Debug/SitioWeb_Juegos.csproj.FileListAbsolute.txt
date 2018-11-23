@@ -1,0 +1,708 @@
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\ApplicationInsights.config
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll.config
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.pdb
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.rsp
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.rsp
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Owin.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\WebGrease.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.pdb
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.pdb
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll.config
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.pdb
+C:\Users\Usuario\Documents\GitHub\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\ApplicationInsights.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.pdb
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.rsp
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.rsp
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.AppContext.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Collections.Immutable.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Console.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Compression.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.AccessControl.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Claims.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.ValueTuple.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.rsp
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.ApplicationInsights.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Web.Infrastructure.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Owin.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\WebGrease.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.pdb
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.pdb
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll.config
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.pdb
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Helpers.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Mvc.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Optimization.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Razor.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csprojAssemblyReference.cache
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CoreCompileInputs.cache
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CopyComplete
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.dll
+C:\Resennas_Juegos\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.pdb
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\ApplicationInsights.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.pdb
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.rsp
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.rsp
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.AppContext.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Console.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.rsp
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Owin.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\WebGrease.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.pdb
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.pdb
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll.config
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.pdb
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csprojAssemblyReference.cache
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CoreCompileInputs.cache
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CopyComplete
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.dll
+C:\Users\Julio y Gladys\Desktop\IngenieriaWeb-SitioResennasDeJuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\ApplicationInsights.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.rsp
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.rsp
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Owin.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\WebGrease.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll.config
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CopyComplete
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.pdb
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\ApplicationInsights.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\SitioWeb_Juegos.pdb
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.exe.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csc.rsp
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.exe.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\csi.rsp
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.AppContext.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Collections.Immutable.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Console.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Compression.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.IO.Pipes.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Reflection.Metadata.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.AccessControl.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Claims.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.ValueTuple.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.exe.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\vbc.rsp
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\roslyn\VBCSCompiler.exe.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.ApplicationInsights.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Web.Infrastructure.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Owin.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Net.Http.Formatting.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.WebHost.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\WebGrease.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.pdb
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Datos.dll.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.pdb
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Servicios.dll.config
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Net.Http.Formatting.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.WebHost.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Helpers.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Mvc.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Optimization.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Razor.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Deployment.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.WebPages.Razor.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Newtonsoft.Json.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Antlr3.Runtime.pdb
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\EntityFramework.SqlServer.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Google.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.DependencyCollector.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.WindowsServer.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.AI.Web.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Helpers.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Mvc.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Optimization.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.Razor.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csprojAssemblyReference.cache
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CoreCompileInputs.cache
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.csproj.CopyComplete
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.dll
+C:\TP_ing_web\SitioWeb_Juegos\SitioWeb_Juegos\obj\Debug\SitioWeb_Juegos.pdb
+C:\Users\Julio y Gladys\Desktop\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Net.Http.Formatting.dll
+C:\Users\Julio y Gladys\Desktop\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.dll
+C:\Users\Julio y Gladys\Desktop\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.WebHost.dll
+C:\Users\Julio y Gladys\Desktop\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Net.Http.Formatting.xml
+C:\Users\Julio y Gladys\Desktop\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.xml
+C:\Users\Julio y Gladys\Desktop\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.xml
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos\SitioWeb_Juegos\SitioWeb_Juegos\bin\System.Web.Http.WebHost.xml

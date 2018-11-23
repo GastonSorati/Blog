@@ -1,0 +1,177 @@
+﻿@model Contract.Post
+@using Microsoft.AspNet.Identity;
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <!-- Post Content Column -->
+            <div class="col-lg-8">
+                <!-- Title -->
+                <h1>@Model.Titulo</h1>
+                <!-- Author -->
+
+                <div class="media mb-2">
+                    @if (Model.Autor.Avatar == null)
+                    {
+                        <img class="d-flex mr-3 rounded-circle" src="~/Imagenes/ImagenUsuario/Usuario-Vacio.png" width="125" alt=""> <!-- PONER FOTO DE PERFIL -->
+                    }
+                    else
+                    {
+                        <img class="d-flex mr-3 rounded-circle" src="@Model.Autor.Avatar" width="125" alt=""> <!-- PONER FOTO DE PERFIL -->
+                    }
+                    <div class="media-body">
+
+                        <a href="@Url.Action("Details","Usuarios",new { username = Model.Autor.UserName})"><h5 class="mt-5">@Model.Autor.UserName</h5></a> <!--ESTE HREF DEBE LLEVAR AL PERFIL DEL AUTOR-->
+                    </div>
+                </div>
+                <hr>
+                <!-- Date/Time -->
+                Fecha de publicación: @Model.FechaPublicacion.ToLongDateString()
+                <hr>
+                <!-- Preview Image -->
+                <img class="img-fluid rounded" src="@Model.Imagen" alt="Imagen del juego">
+                <hr>
+                <!-- Post Content -->
+                <p>@Model.Contenido</p>
+                <hr />
+
+
+                <strong>Tags:</strong>
+                @if (Model.Tags.ToList().Count != 0)
+                {
+                    foreach (var item in Model.Tags.ToList())
+                    {
+                        <ul>
+                            <li>
+                                <a href="@Url.Action("Tags","Posts", new { id = item.Id })">@item.Descripcion</a>
+                            </li>
+                        </ul>
+                    }
+                }
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <hr />
+                    <!-- Comments Form -->
+                    <div class="card my-4">
+                        <h5 class="card-header">Deja un comentario:</h5>
+                        <div class="card-body">
+                            <form>
+                                <div class="form-group">
+                                    <textarea id="Comentario" class="form-control" rows="3"></textarea>
+                                </div>
+                                <button type="submit" id="BtnComentar" class="btn btn-primary">Comentar</button>
+                            </form>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <h2>¡Debes estar logueado para comentar!</h2>
+                    @Html.ActionLink("Iniciar Sesion", "Login", "Account")
+                    <hr />
+                }
+
+                <!-- Single Comment -->
+                @foreach (var item in Model.Comentarios)
+                {
+                    <div class="media mb-4">
+                        @if (item.Usuario.Avatar == null)
+                        {
+                            <img class="d-flex mr-3 rounded-circle" src="~/Imagenes/ImagenUsuario/Usuario-Vacio.png" width="50" alt=""> <!-- PONER FOTO DE PERFIL -->
+                        }
+                        else
+                        {
+                            <img class="d-flex mr-3 rounded-circle" src="@item.Usuario.Avatar" width="50" alt=""> <!-- PONER FOTO DE PERFIL -->
+                        }
+
+                        <div class="media-body">
+
+
+                            <a href="@Url.Action("Details","Usuarios",new { username = Model.Autor.UserName})"><h5 class="mt-3">@item.Usuario.UserName <small> el @item.Fecha</small></h5></a>
+                            @item.Contenido
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                if (User.Identity.Name == item.Usuario.UserName)
+                                {
+
+                                    <button type="submit" id="btnEliminarComentario" data-id="@item.Id" class="btn btn-primary">Eliminar</button>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-group" id="btnDenunciarComentario" type="submit" href="@Url.Action("Create","DenunciasComentarios",new { IdComentario = item.Id, IdPost = Model.Id })">Denunciar</a>
+                                }
+                            }
+
+                        </div>
+
+                    </div>
+                    <hr />
+                }
+            </div>
+                @Html.Partial("_Widgets")
+            </div>
+    </div>
+  
+
+    <!--Hace la magia para comentar y ver el comentario creado-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#BtnComentar").click(function () {
+                var comment = $("#Comentario").val();
+                if (comment.trim() != "") //Se puede ingresar espacios y el comentario se guarda igual, el .trim elimina el espacio en blanco y verifica si es vacio
+                {
+                    $.ajax({
+                        url: '/Comentarios/CrearComentario/',
+                        data: { Comentario: comment, IdPost:@Model.Id},
+                        type: 'POST',
+                        dataType: 'json',
+                        success: function (data) {
+                            alert("Gracias por Comentar!");
+                            document.location.reload();
+                        }
+                    });
+                }
+                else {
+                    alert("Error! Comentario Vacio");
+                }
+
+            });
+        })
+    </script>
+
+    <!--Hace la magia para borrar comentario creado-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("button[id=btnEliminarComentario]").click(function () {
+
+                if (confirm('Eliminar comentario?')) //Se puede ingresar espacios y el comentario se guarda igual, el .trim elimina el espacio en blanco y verifica si es vacio
+                {
+                    $.ajax({
+                        url: '/Comentarios/EliminarComentario/',
+                        data: { IdComentario: $(this).data("id"), IdPost:@Model.Id},
+                        type: 'POST',
+                        dataType: 'json',
+                        success: function (data) {
+                            alert("Comentario Eliminado!");
+                            document.location.reload();
+                        }
+                    });
+                    
+                }
+
+            });
+        })
+    </script>
+</body>
+
+

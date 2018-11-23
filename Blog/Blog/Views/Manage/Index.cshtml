@@ -1,0 +1,157 @@
+﻿@model Blog.Models.IndexViewModel
+@{
+    ViewBag.Title = "Gestionar perfil";
+}
+
+<body id="page-top">
+
+    @*<button class="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle" href="#">
+          <i class="fas fa-bars"></i>
+        </button>*@
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        @Html.Partial("_SidebarUsuario")
+
+        <div id="content-wrapper">
+
+            <div class="container-fluid">
+
+                <!-- Breadcrumbs-->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="#">Perfil</a>
+                    </li>
+                    <li class="breadcrumb-item active">Editar</li>
+                </ol>
+            </div>
+            <!-- /.container-fluid -->
+            <!--PONER TODOS LOS DATOS DEL PERFIL ACA-->
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+
+                    @if (Model.Avatar == null)
+                    {
+                        <img class="d-flex mr-3 rounded-circle" src="~/Imagenes/ImagenUsuario/Usuario-Vacio.png" width="85" alt="">
+                    }
+                    else
+                    {
+                        <img src="#" alt="Imagen_Usuario" /> <!-- PONER FOTO DE PERFIL -->
+
+                    }
+
+                    <button>Cambiar Foto</button>
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Avatar, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Avatar, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Avatar, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Guardar datos" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <!-- /.content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                    <a class="btn btn-primary" href="login.html">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    @*<h2>@ViewBag.Title.</h2>
+        @Html.Partial("_SidebarAdmin")
+        <p class="text-success">@ViewBag.StatusMessage</p>
+        <div>
+            <h4>Cambiar la configuración de la cuenta</h4>
+            <hr />
+            <p>
+                <h3>Nombre de usuario</h3>
+                @User.Identity.Name
+            </p>
+            <p>
+                <h3>Contraseña</h3>
+                <span>
+                    @if (Model.HasPassword)
+                    {
+                        @Html.ActionLink("Cambiar la contraseña", "ChangePassword")
+                    }
+                    else
+                    {
+                        @Html.ActionLink("Crear", "SetPassword")
+                    }
+                </span>
+            </p>
+            @*
+                Los números de teléfono se pueden usar como una segunda fase de comprobación en un sistema de autenticación en dos fases.
+
+                 Consulte <a href="https://go.microsoft.com/fwlink/?LinkId=403804">este artículo</a>
+                    para obtener detalles sobre cómo configurar esta aplicación ASP.NET para que sea compatible con la autenticación en dos fases mediante SMS.
+
+                 Quite la marca de comentario de los bloques siguientes después de configurar la autenticación en dos fases.
+    *@
+    @*
+        <dt>Número de teléfono:</dt>
+        <dd>
+            @(Model.PhoneNumber ?? "None")
+            @if (Model.PhoneNumber != null)
+            {
+                <br />
+                <text>[&nbsp;&nbsp;@Html.ActionLink("Change", "AddPhoneNumber")&nbsp;&nbsp;]</text>
+                using (Html.BeginForm("RemovePhoneNumber", "Manage", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <text>[<input type="submit" value="Quitar" class="btn-link" />]</text>
+                }
+            }
+            else
+            {
+                <text>[&nbsp;&nbsp;@Html.ActionLink("Add", "AddPhoneNumber")
+            }
+        </dd>
+    
+    </dl>
+
+    </div>*@
+</body>

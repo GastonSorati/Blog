@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Contract.ComentarioDenunciado>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Administrador - Comentarios Denunciados</title>
+
+</head>
+<body id="page-top">
+    <div id="wrapper">
+        @Html.Partial("_SidebarAdmin")
+        <div id="content-wrapper">
+            <div class="container-fluid">
+                <!-- Breadcrumbs-->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="#">Dashboard</a>
+                    </li>
+                    <li class="breadcrumb-item active">Tablas</li>
+                </ol>
+                <!-- DataTables Example -->
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <i class="fas fa-table"></i>
+                        Denuncias
+                    </div>
+                    <br />
+
+
+
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead>
+                                    <tr>
+                                        <th>Fecha</th>
+                                        <th>Comentario</th>
+                                        <th>Denunciante</th>
+                                        <th>Motivo</th>
+                                        <th>Denunciado</th>
+                                        <th>Accion</th>
+
+
+                                    </tr>
+                                </thead>
+                                <tfoot>
+                                    <tr>
+                                        <th>Fecha</th>
+                                        <th>Comentario</th>
+                                        <th>Denunciante</th>
+                                        <th>Motivo</th>
+                                        <th>Denunciado</th>
+                                        <th>Accion</th>
+
+                                    </tr>
+                                </tfoot>
+                                <tbody>
+
+                                    @{
+                                        foreach (var item in Model)
+                                        {
+                                    <tr>
+                                        <td>@item.Fecha</td>
+                                        <td>@item.Comentario.Id</td>
+                                        <td>@item.Usuario.UserName</td>
+                                        <td>@item.Motivo.Descripcion</td>
+                                        <td>@item.Comentario.Autor</td>
+                                        <td><a href="@Url.Action("Details","Posts",new {Id = item.Comentario.Post })">Ver</a></td>
+                                    </tr>
+                                        }
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="card-footer small text-muted">Última consulta: @System.DateTime.Now</div>
+                </div>
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /.content-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+</body>
+</html>
+
+

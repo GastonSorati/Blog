@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Contract.Categoria>
+   
+@foreach (var item in Model)
+{
+    <a href="@Url.Action("Categorias","Posts",new { id = item.Id})" class="dropdown-item">@item.Descripcion</a>
+}
+
+
+

@@ -1,0 +1,77 @@
+﻿@{ 
+    ViewBag.Title = "Inicio";
+}
+
+<body>
+    <!-- Header con fondo de imágen -->
+    <header>
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <!-- Slide 1 -->
+                <div class="carousel-item active" style="background-image: url(../../Imagenes/ImagenInicio/img-banner-11.jpg)">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Explora</h3>
+                        <p>Hay todo un mundo esperándote.</p>
+                    </div>
+                </div>
+                <!-- Slide 2 -->
+                <div class="carousel-item" style="background-image: url('../../Imagenes/ImagenInicio/img-banner-22.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Opina</h3>
+                        <p>Tienes ideas guardadas, aquí puedes liberarlas.</p>
+                    </div>
+                </div>
+                <!-- Slide 3 -->
+                <div class="carousel-item" style="background-image: url('../../Imagenes/ImagenInicio/img-banner-33.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Diviértete</h3>
+                        <p>Aquí es donde puedes distenderte a tu gusto.</p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </header>
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <h2 class="mt-4">Quienes somos</h2>
+                <p>"El fútbol es lo más importante entre las cosas menos importantes”, dijo una vez un conocido entrenador, y estamos de acuerdo. No podía ser de otra forma cuando este deporte nos alegra o nos amarga un día con una facilidad asombrosa. Por eso, te invitamos a sumergirte y explorar nuestro sitio ya sea para dejar tu opinión o simplemente ver los posts que mas sean de tu agrado.</p>
+                <p>
+                    <a class="btn btn-primary btn-lg" href="@Url.Action("Index", "Posts")">Conocer más &raquo;</a>
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <h2 class="mt-4">Contáctanos</h2>
+                <address>
+                    <strong>JUEGOSeñas Inc.&copy;</strong>
+                    <br>Bv. H. Yrigoyen 1502
+                    <br>Rafaela, Santa Fe 2300
+                    <br>
+                </address>
+                <address>
+                    <abbr title="Teléfono">Tel.:</abbr>
+                    +54 03492-507890
+                    <br>
+                    <abbr title="Email">Correo:</abbr>
+                    <a href="mailto:#">gastonsorati@gmail.com</a>
+                </address>
+            </div>
+        </div> <!-- /.row -->
+        
+        <hr />
+    </div> <!-- /.container -->
+</body>

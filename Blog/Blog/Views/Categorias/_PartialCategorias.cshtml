@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Contract.Categoria>
+
+<div class="card my-4">
+    <h5 class="card-header">Categorias</h5>
+    <div class="card-body">
+        <dl>
+            @foreach (var item in Model)
+            {
+                <dl>                   
+                        <br>
+                        <img style="float:left" class="d-flex mr-3 rounded-circle" src="@item.Imagen width="50" alt="">
+                        <br>
+                    
+                    <a href="@Url.Action("Categorias","Posts",new { id = item.Id})">@item.Descripcion</a> 
+                </dl>
+
+            }
+        </dl>
+ 
+    </div>
+</div>

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Contract.Comentario>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Administrador - Comentario</title>
+
+</head>
+<body id="page-top">
+    <div id="wrapper">
+        @Html.Partial("_SidebarAdmin")
+        <div id="content-wrapper">
+            <div class="container-fluid">
+                <!-- Breadcrumbs-->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="#">Dashboard</a>
+                    </li>
+                    <li class="breadcrumb-item active">Tablas</li>
+                </ol>
+                <!-- DataTables Example -->
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <i class="fas fa-table"></i>
+                        Comentarios
+                    </div>
+
+
+
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Fecha</th>
+                                        <th>Post</th>
+                                        <th>Autor</th>
+                                        <th>Estado</th>
+                                        <th>Acción</th>
+                                    </tr>
+                                </thead>
+                                <tfoot>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Fecha</th>
+                                        <th>Post</th>
+                                        <th>Autor</th>
+                                        <th>Estado</th>
+                                        <th>Acción</th>
+                                    </tr>
+                                </tfoot>
+                                <tbody>
+
+                                    @{
+                                        foreach (var item in Model)
+                                        {
+                                    <tr>
+                                        <td>@item.Id</td>
+                                        <td>@item.Fecha</td>
+                                        <td>@item.Post</td>
+                                        <td>@item.Usuario.UserName</td>
+                                        <td>@item.Estado.Descripcion</td>
+                                        <td>@Html.ActionLink("Editar", "Edit", new { id = item.Id }) | @Html.ActionLink("Ver", "Details", "Posts", new { id = item.Post }, null) </td>
+                                    </tr>
+                                        }
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="card-footer small text-muted">Última consulta: @System.DateTime.Now</div>
+                </div>
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /.content-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+</body>
+</html>
+

@@ -1,0 +1,29 @@
+﻿            <!-- Sidebar Widgets Column -->
+<div class="col-md-4">
+    <!-- Search Widget -->
+    @*<div class="card my-4">
+        <h5 class="card-header">Búsqueda</h5>
+        <div class="card-body">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Buscar por...">
+                <span class="input-group-btn">
+                    <button class="btn btn-secondary" type="button">Buscar!</button>
+                </span>
+            </div>
+        </div>
+    </div>*@
+
+    @*@{ 
+//Html.RenderAction("_ListaJuegosBuscador", "AdminJuegos");
+    }*@
+    <!-- Categorias Widget -->
+    @{
+        Html.RenderAction("_PartialCategorias", "Categorias");
+    }
+
+    <!-- Top Usuarios Widget -->
+    @*@{
+        Html.RenderAction("UsuariosTopsWidget", "Top");
+    }*@
+
+</div>

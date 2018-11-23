@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\SitioWeb_Juegos\Contract\bin\Debug\Contract.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\SitioWeb_Juegos\Contract\bin\Debug\Contract.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\SitioWeb_Juegos\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\SitioWeb_Juegos\Contract\obj\Debug\Contract.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\SitioWeb_Juegos\Contract\obj\Debug\Contract.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\bin\Debug\Contract.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\bin\Debug\Contract.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\obj\Debug\Contract.dll
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\obj\Debug\Contract.pdb
+C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\obj\Debug\Contract.csprojAssemblyReference.cache
