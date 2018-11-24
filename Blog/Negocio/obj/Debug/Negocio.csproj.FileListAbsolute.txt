@@ -36,3 +36,22 @@ C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Nego
 C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Negocio\obj\Debug\Negocio.dll
 C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Contract.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Datos.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Contract.pdb
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Datos.pdb
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Negocio\obj\Debug\Negocio.pdb

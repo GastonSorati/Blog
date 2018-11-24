@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Contract.Tag>
+
+<div class="card my-4">
+    <h5 class="card-header">Tags</h5>
+    <div class="card-body">
+        <div class="row">
+            @foreach (var item in Model.OrderByDescending(x => x.Posts.Count()))
+            {
+                <div class="col-lg-5">
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="@Url.Action("Categorias","Posts",new { id = item.Id})">@item.Descripcion (@item.Posts.Count())</a>
+                        </li>
+                    </ul>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

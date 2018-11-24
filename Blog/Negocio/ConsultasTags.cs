@@ -23,7 +23,8 @@ namespace Negocio
                 resultado.Add(new Tag()
                 {
                     Id = item.Id,
-                    Descripcion = item.Descripcion
+                    Descripcion = item.Descripcion,
+                    Posts = item.Posts.Select(x => new Post() { Id = x.Id}).ToList()
                 });
             }
             return resultado;

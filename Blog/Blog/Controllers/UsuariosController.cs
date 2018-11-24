@@ -16,7 +16,7 @@ using System.IO;
 
 namespace Blog.Controllers
 {
-    [Authorize(Roles = "Administrador")]
+
     public class UsuariosController : Controller
     {
         private readonly IUsuario consultasUsuarios;
@@ -29,7 +29,7 @@ namespace Blog.Controllers
             this.consultasRolesUsuario = consultasRolesUsuario;
         }
 
-
+        [Authorize(Roles = "Administrador")]
         public ActionResult Index()
         {
             var model = consultasUsuarios.ObtenerUsuarios();
@@ -37,6 +37,7 @@ namespace Blog.Controllers
         }
 
         // GET: Usuarios/Edit/5
+        [Authorize(Roles = "Administrador")]
         public ActionResult Edit(string id)
         {
             var model = consultasUsuarios.ObtenerUsuarioPorId(id);
@@ -49,6 +50,7 @@ namespace Blog.Controllers
         }
 
         // POST: Usuarios/Edit/5
+        [Authorize(Roles = "Administrador")]
         [HttpPost]
         public ActionResult Edit(string id, Usuario model)
         {
@@ -68,7 +70,7 @@ namespace Blog.Controllers
             }
         }
 
-        [Authorize]
+        [Authorize (Roles = "Administrador, Usuario")]
         public ActionResult Details(string username)
         {
             var model = consultasUsuarios.ObtenerUsuarioPorUsername(username);
@@ -76,7 +78,7 @@ namespace Blog.Controllers
         }
 
 
-        [Authorize]
+        [Authorize(Roles = "Administrador, Usuario")]
         public ActionResult Edit_Profile()
         {
             var id = User.Identity.GetUserId();
@@ -88,7 +90,7 @@ namespace Blog.Controllers
         }
 
         // POST: Users/Edit_Profile/5
-        [Authorize]
+        [Authorize(Roles = "Administrador, Usuario")]
         [HttpPost]
         public ActionResult Edit_Profile(Usuario model, HttpPostedFileBase Avatar)
         {

@@ -28,6 +28,14 @@ namespace Blog.Controllers
             return View(model);
         }
 
+
+        [AllowAnonymous]
+        public ActionResult _PartialTags()
+        {
+            var model = consultasTags.ObtenerTags();
+            return PartialView("_PartialTags", model);
+        }
+
         // GET: Categorias/Details/5
         public ActionResult Details(int id)
         {

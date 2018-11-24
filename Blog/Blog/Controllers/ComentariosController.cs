@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace Blog.Controllers
 {
-    [Authorize(Roles = "Administrador")]
+    
     public class ComentariosController : Controller
     {
 
@@ -20,6 +20,8 @@ namespace Blog.Controllers
             this.consultasComentarios = consultasComentarios;
             this.consultasEstados = consultasEstados;
         }
+
+        [Authorize(Roles = "Administrador")]
         // GET: Comentarios
         public ActionResult Index()
         {
@@ -27,6 +29,7 @@ namespace Blog.Controllers
             return View(model);         
         }
 
+        [Authorize(Roles = "Administrador")]
         public ActionResult Edit(int id)
         {          
             var model = consultasComentarios.ObtenerComentarioPorId(id);
@@ -37,6 +40,7 @@ namespace Blog.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Administrador")]
         [HttpPost]
         public ActionResult Edit(int id, Comentario model)
         {
@@ -54,7 +58,7 @@ namespace Blog.Controllers
             }
         }
 
-        [Authorize]
+        [Authorize(Roles = "Administrador, Usuario")]
         public JsonResult CrearComentario(string comentario, int IdPost)
         {
             ConsultasComentarios consultascomentarios = new ConsultasComentarios();
@@ -68,7 +72,7 @@ namespace Blog.Controllers
             return Json(false, JsonRequestBehavior.AllowGet);
         }
 
-        [Authorize]
+        [Authorize(Roles = "Administrador, Usuario")]
         public JsonResult EliminarComentario(int IdComentario, int IdPost)
         {
             ConsultasComentarios consultascomentarios = new ConsultasComentarios();

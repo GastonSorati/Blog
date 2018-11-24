@@ -85,6 +85,10 @@ namespace Negocio
                 }
                 else
                 {
+                    if (model.Imagen != null)
+                    {
+                        categoriaActual.Imagen = model.Imagen;
+                    }
                     categoriaActual.Descripcion = model.Descripcion;
                     categoriaActual.Eliminado = model.Eliminado;
                 }
