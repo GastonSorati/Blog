@@ -1,0 +1,4 @@
+1- El Script_BlogBD.sql tiene las tablas y los datos de prueba.
+2- El mail que se usa en el registro tiene que ser valido, de manera que permita confirmarlo.
+3- El usuario administrador es gastonsorati@gmail.com y la clave 123456.
+
