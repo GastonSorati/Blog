@@ -24,7 +24,7 @@ namespace Negocio
                 {
                     Id = item.Id,
                     Descripcion = item.Descripcion,
-                    Posts = item.Posts.Select(x => new Post() { Id = x.Id}).ToList()
+                    Posts = item.Posts.Where(x=>x.Eliminado == false).Select(x => new Post() { Id = x.Id}).ToList()
                 });
             }
             return resultado;

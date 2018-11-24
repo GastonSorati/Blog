@@ -64,6 +64,7 @@ namespace Blog.Controllers
         // POST: Categorias/Create
         [Authorize(Roles = "Administrador")]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(Categoria model, HttpPostedFileBase Imagen)
         {
             try
@@ -111,6 +112,7 @@ namespace Blog.Controllers
         // POST: Categorias/Edit/5
         [Authorize(Roles = "Administrador")]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, Categoria model, HttpPostedFileBase Imagen)
         {
 

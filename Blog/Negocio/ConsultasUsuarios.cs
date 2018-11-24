@@ -58,6 +58,8 @@ namespace Negocio
                 UserName = usuario.UserName,               
                 Avatar = usuario.Avatar,
                  IdEstado = usuario.IdEstado,
+                 Nombre = usuario.Nombre,
+                 Apellido = usuario.Apellido,
                 Rol = usuario.AspNetRoles.Select(x => new RolUsuario() { Id = x.Id, Descripcion = x.Name }).FirstOrDefault()
             };
 
@@ -81,6 +83,8 @@ namespace Negocio
                 AccessFailedCount = usuario.AccessFailedCount,
                 UserName = usuario.UserName,                
                 Avatar = usuario.Avatar,
+                Nombre = usuario.Nombre,
+                Apellido = usuario.Apellido,
                 Estado = new Estado { Id = usuario.Estados.Id, Descripcion = usuario.Estados.Descripcion },
                 Rol = usuario.AspNetRoles.Select(x => new RolUsuario() { Id = x.Id, Descripcion = x.Name }).FirstOrDefault()
             };
@@ -129,7 +133,11 @@ namespace Negocio
                      usuarioActual.Avatar = model.Avatar;
                  }
 
-                            
+                usuarioActual.UserName = model.UserName;
+                usuarioActual.Nombre = model.Nombre;
+                usuarioActual.Apellido = model.Apellido;
+
+
                 db.SaveChanges();
             }
             return usuarioActual.Id;

@@ -52,6 +52,7 @@ namespace Blog.Controllers
         // POST: Usuarios/Edit/5
         [Authorize(Roles = "Administrador")]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Edit(string id, Usuario model)
         {
 
@@ -92,6 +93,7 @@ namespace Blog.Controllers
         // POST: Users/Edit_Profile/5
         [Authorize(Roles = "Administrador, Usuario")]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Edit_Profile(Usuario model, HttpPostedFileBase Avatar)
         {
 
@@ -115,7 +117,7 @@ namespace Blog.Controllers
                 var id = User.Identity.GetUserId();
                 model.Id = id;
                 var idGenerado = consultasUsuarios.ModificarPerfilUsuario(model);
-                return View(model);
+                return RedirectToAction("Edit_Profile");
             }
             catch
             {

@@ -1,4 +1,6 @@
 ﻿@model Contract.Usuario
+
+
 @{
     ViewBag.Title = "Gestionar perfil";
 }
@@ -44,11 +46,19 @@
                     </dd>
 
                     <dt>
-                        @Html.DisplayNameFor(model => model.PhoneNumber)
+                        @Html.DisplayNameFor(model => model.Nombre)
                     </dt>
 
                     <dd>
-                        @Html.DisplayFor(model => model.PhoneNumber)
+                        @Html.DisplayFor(model => model.Nombre)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Apellido)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Apellido)
                     </dd>
 
                     <dt>
@@ -59,13 +69,6 @@
                         @Html.DisplayFor(model => model.UserName)
                     </dd>
 
-                    <dt>
-                        @Html.DisplayNameFor(model => model.Estado.Descripcion)
-                    </dt>
-
-                    <dd>
-                        @Html.DisplayFor(model => model.Estado.Descripcion)
-                    </dd>
                 </div>
             </dl>
         </div>

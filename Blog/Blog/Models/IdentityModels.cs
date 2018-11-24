@@ -15,7 +15,7 @@ namespace Blog.Models
 
         public ApplicationUser()
         {
-
+            IdEstado = 1;
         }
 
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)

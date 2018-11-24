@@ -55,6 +55,7 @@ namespace Blog.Controllers
 
         // POST: Categorias/Create
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(Tag model)
         {
             try
@@ -90,6 +91,7 @@ namespace Blog.Controllers
 
         // POST: Categorias/Edit/5
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, Tag model)
         {
 

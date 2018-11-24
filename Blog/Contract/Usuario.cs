@@ -25,6 +25,8 @@ namespace Contract
         public string Avatar { get; set; }
         public int IdEstado { get; set; }
         public string IdRol { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
 
 
         public virtual Estado Estado { get; set; }

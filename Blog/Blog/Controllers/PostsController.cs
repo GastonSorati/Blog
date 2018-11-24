@@ -68,6 +68,7 @@ namespace Blog.Controllers
 
         // POST: Posts/Create
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(Post model, HttpPostedFileBase Imagen)
         {
             ViewBag.Categorias = new SelectList(consultasCategorias.ObtenerCategorias(), "Id", "Descripcion");
@@ -122,6 +123,7 @@ namespace Blog.Controllers
 
         // POST: Posts/Edit/5
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, Post model, HttpPostedFileBase Imagen)
         {
             ViewBag.Categorias = new SelectList(consultasCategorias.ObtenerCategorias(), "Id", "Descripcion", model.IdCategoria);

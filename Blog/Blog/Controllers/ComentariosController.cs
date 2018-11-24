@@ -29,9 +29,24 @@ namespace Blog.Controllers
             return View(model);         
         }
 
+
+        [Authorize(Roles = "Administrador, Usuario")]
+        public JsonResult CrearComentario(string comentario, int IdPost)
+        {
+            ConsultasComentarios consultascomentarios = new ConsultasComentarios();
+            var IdAutor = User.Identity.GetUserId();
+
+            Comentario model = new Comentario();
+            model.Autor = IdAutor;
+            model.Contenido = comentario;
+            model.Post = IdPost;
+            var idgenerado = consultascomentarios.CrearComentario(model);
+            return Json(false, JsonRequestBehavior.AllowGet);
+        }
+
         [Authorize(Roles = "Administrador")]
         public ActionResult Edit(int id)
-        {          
+        {
             var model = consultasComentarios.ObtenerComentarioPorId(id);
             ViewBag.Estados = new SelectList(consultasEstados.ObtenerEstados(), "Id", "Descripcion", model.IdEstado);
             if (model == null)
@@ -42,6 +57,7 @@ namespace Blog.Controllers
 
         [Authorize(Roles = "Administrador")]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, Comentario model)
         {
             ViewBag.Estados = new SelectList(consultasEstados.ObtenerEstados(), "Id", "Descripcion", model.IdEstado);
@@ -56,20 +72,6 @@ namespace Blog.Controllers
             {
                 return View();
             }
-        }
-
-        [Authorize(Roles = "Administrador, Usuario")]
-        public JsonResult CrearComentario(string comentario, int IdPost)
-        {
-            ConsultasComentarios consultascomentarios = new ConsultasComentarios();
-            var IdAutor = User.Identity.GetUserId();
-
-            Comentario model = new Comentario();
-            model.Autor = IdAutor;
-            model.Contenido = comentario;
-            model.Post = IdPost;
-            var idgenerado = consultascomentarios.CrearComentario(model);
-            return Json(false, JsonRequestBehavior.AllowGet);
         }
 
         [Authorize(Roles = "Administrador, Usuario")]

@@ -54,19 +54,5 @@ namespace Blog.Controllers
 
         }
 
-        public ActionResult CrearDenunciaComentario(string descripcion, int id, int motivo)
-        {
-            ConsultasDenuncias consultasdenuncias = new ConsultasDenuncias();
-            var IdDenunciante = User.Identity.GetUserId();
-            ComentarioDenunciado model = new ComentarioDenunciado();
-            model.IdUsuario = IdDenunciante;
-            model.Descripcion = descripcion;
-            model.IdComentario = id;
-            model.IdMotivo = motivo;
-            var idgenerado = consultasdenuncias.CrearDenunciaComentario(model);
-
-            return RedirectToAction("Details", "Posts" /*new { id = idpost }*/);
-        }
-
     }
 }

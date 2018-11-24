@@ -9,3 +9,9 @@ C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Cont
 C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\obj\Debug\Contract.dll
 C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\obj\Debug\Contract.pdb
 C:\Users\Usuario\Documents\ingenieriaweb-sitioresennasdejuegos - copia\Blog\Contract\obj\Debug\Contract.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Contract\bin\Debug\Contract.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Contract\bin\Debug\Contract.pdb
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Contract\obj\Debug\Contract.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Contract\obj\Debug\Contract.dll
+C:\Users\Usuario\Documents\GitHub\Blog\Blog\Contract\obj\Debug\Contract.pdb
